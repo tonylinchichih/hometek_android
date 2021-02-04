@@ -1,0 +1,3 @@
+-dontwarn org.apache.**
+-keep class com.intellex.hometek.net.** {*;}
+-keep class org.simpleframework.xml.** {*;}

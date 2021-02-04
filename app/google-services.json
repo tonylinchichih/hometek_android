@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "490641957402",
+    "firebase_url": "https://hometek-d4f7f.firebaseio.com",
+    "project_id": "hometek-d4f7f",
+    "storage_bucket": "hometek-d4f7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490641957402:android:e2ff8928323c6b03",
+        "android_client_info": {
+          "package_name": "com.intellex.hometek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490641957402-ilm3vcn3iac73m3onf1oberc82ncl7u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANB4DCntrgdCN-ybwP_XnTfL6aSpZXBgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490641957402-ilm3vcn3iac73m3onf1oberc82ncl7u7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490641957402-c1kb64f0vig39vc8vt6mumrr94irq993.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Intellex.HometekApp.sip"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490641957402:android:9d6efe5aca9d81264be7a3",
+        "android_client_info": {
+          "package_name": "com.intellex.hometek.sip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490641957402-ilm3vcn3iac73m3onf1oberc82ncl7u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANB4DCntrgdCN-ybwP_XnTfL6aSpZXBgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490641957402-ilm3vcn3iac73m3onf1oberc82ncl7u7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490641957402-c1kb64f0vig39vc8vt6mumrr94irq993.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Intellex.HometekApp.sip"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

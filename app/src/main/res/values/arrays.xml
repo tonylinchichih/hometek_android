@@ -1,0 +1,42 @@
+<?xml version = "1.0"  encoding = "utf-8" ?>
+<resources>
+    <string-array name="light" >
+        <item>客廳燈</item>
+        <item>玄關燈</item>
+        <item>餐廳燈</item>
+        <item>廚房燈</item>
+        <item>主臥燈</item>
+        <item>次臥1</item>
+        <item>次臥2</item>
+        <item>書房</item>
+        <item>陽台</item>
+        <item>走道</item>
+    </string-array>
+
+    <string-array name="ac" >
+        <item>客廳</item>
+        <item>餐廳</item>
+        <item>主臥</item>
+        <item>臥室1</item>
+        <item>臥室2</item>
+        <item>臥室3</item>
+    </string-array>
+
+    <string-array name="curtain" >
+        <item>窗簾1開</item>
+        <item>窗簾1關</item>
+        <item>窗簾2開</item>
+        <item>窗簾2關</item>
+        <item>窗簾3開</item>
+        <item>窗簾3關</item>
+    </string-array>
+
+    <string-array name="plug" >
+        <item>插座1</item>
+        <item>插座2</item>
+        <item>插座3</item>
+        <item>插座4</item>
+        <item>插座5</item>
+        <item>插座6</item>
+    </string-array>
+</resources>
